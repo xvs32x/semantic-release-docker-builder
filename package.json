@@ -1,7 +1,7 @@
 {
-  "name": "semantic-release-docker",
+  "name": "x64vs32x-semantic-release-docker",
   "description": "Set of semantic-release plugins to publish to docker hub",
-  "version": "0.0.0-development",
+  "version": "0.0.1-development",
   "engines": {
     "node": ">=8"
   },
