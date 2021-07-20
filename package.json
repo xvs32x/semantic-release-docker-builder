@@ -1,5 +1,5 @@
 {
-  "name": "x64vs32x-semantic-release-docker-tagging",
+  "name": "x64vs32x-semantic-release-docker-builder",
   "description": "Set of semantic-release plugins to publish to docker hub",
   "version": "0.1.0",
   "engines": {
