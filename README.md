@@ -16,12 +16,8 @@ Set of [semantic-release](https://github.com/semantic-release/semantic-release) 
 ```json
 {
   "release": {
-    "verifyConditions": {
-      "path": "semantic-release-docker",
-      "registryUrl": "docker.io"
-    },
     "publish": {
-      "path": "semantic-release-docker",
+      "path": "x64vs32x-semantic-release-docker-builder",
       "name": "username/imagename"
     }
   }
