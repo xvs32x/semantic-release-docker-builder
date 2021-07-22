@@ -1,5 +1,5 @@
 {
-  "name": "semantic-release-docker-build-push",
+  "name": "semantic-release-docker-fork",
   "description": "Set of semantic-release plugins to publish to docker hub",
   "version": "0.1.0",
   "engines": {
